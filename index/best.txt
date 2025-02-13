@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/arsscriptum/trackerslist/refs/heads/latest/trackers_best.txt
