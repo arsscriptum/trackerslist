@@ -1,0 +1,6 @@
+udp://p2p.publictracker.xyz:6969/announce
+http://buny.uk:6969/announce
+udp://evan.im:6969/announce
+https://tr.nyacat.pw:443/announce
+udp://discord.heihachi.pw:6969/announce
+wss://tracker.webtorrent.dev:443/announce
